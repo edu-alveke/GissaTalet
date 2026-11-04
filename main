@@ -1,2 +1,0 @@
-namn = input("Vad heter du? ")
-print("Hej " + namn + " och välkommen till spelet!")
